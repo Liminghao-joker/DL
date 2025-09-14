@@ -1,7 +1,10 @@
 # Deep Learning
 
-李宏毅深度学习课程作业1  
-HW1_Covid 19 Cases Prediction(DNN)  
+- 李宏毅深度学习课程作业1  
+  HW1_Covid 19 Cases Prediction(DNN)  
 
-自己从0搭建一个Transformer  
-my_own_transformer
+- 自己从0搭建一个Transformer  
+  my_own_transformer
+
+- Resources
+  线上资料
